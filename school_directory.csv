@@ -1,0 +1,985 @@
+ID,SchoolName,District,Level
+1,albuquerque district,albuquerque,district
+2,reserve district,reserve,district
+3,quemado district,quemado,district
+4,roswell district,roswell,district
+5,hagerman district,hagerman,district
+6,dexter district,dexter,district
+7,lake arthur district,lake arthur,district
+8,cimarron district,cimarron,district
+9,raton district,raton,district
+10,springer district,springer,district
+11,maxwell district,maxwell,district
+12,clovis district,clovis,district
+13,texico district,texico,district
+14,melrose district,melrose,district
+15,grady district,grady,district
+16,fort sumner district,ft sumner,district
+17,las cruces district,las cruces,district
+18,hatch valley dist,hatch,unknown level
+19,gadsden district,gadsden,district
+20,carlsbad district,carlsbad,district
+21,loving district,loving,district
+22,artesia district,artesia,district
+23,silver city district,silver city,district
+24,cobre district,cobre consolidated,district
+25,santa rosa district,santa rosa,district
+26,vaughn district,vaughn,district
+27,roy district,roy,district
+28,mosquero district,mosquero,district
+29,lordsburg district,lordsburg,district
+30,animas district,animas,district
+31,lovington district,lovington,district
+32,eunice district,eunice,district
+33,hobbs district,hobbs,district
+34,jal district,jal,district
+35,tatum district,tatum,district
+36,ruidoso district,ruidoso,district
+37,carrizozo district,carrizozo,district
+38,corona district,corona,district
+39,hondo valley district,hondo,district
+40,capitan district,capitan,district
+41,los alamos district,los alamos,district
+42,deming district,deming,district
+43,gallup district,gallup,district
+44,mora district,mora,district
+45,wagon mound district,wagon mound,district
+46,alamogordo district,alamogordo,district
+47,tularosa district,tularosa,district
+48,cloudcroft district,cloudcroft,district
+49,tucumcari district,tucumcari,district
+50,house district,house,district
+51,logan district,logan,district
+52,san jon district,san jon,district
+53,chama valley district,chama,district
+54,dulce district,dulce,district
+55,espanola district,espanola,district
+56,jemez mtn district,jemez mountain,district
+57,portales district,portales,district
+58,elida district,elida,district
+59,floyd district,floyd,district
+60,dora district,dora,district
+61,bernalillo district,bernalillo,district
+62,cuba district,cuba,district
+63,jemez valley district,jemez valley,district
+64,aztec district,aztec,district
+65,farmington district,farmington,district
+66,bloomfield district,bloomfield,district
+67,central district,central consolidated,district
+68,west las vegas dist office,west las vegas,unknown level
+69,las vegas city dist office,las vegas city,unknown level
+70,pecos district,pecos,district
+71,santa fe district,santa fe,district
+72,pojoaque district,pojoaque,district
+73,t or c district,truth or cons.,district
+74,socorro district,socorro,district
+75,magdalena district,magdalena,district
+76,taos district,taos,district
+77,penasco district,penasco,district
+78,mesa vista district,mesa vista,district
+79,questa district,questa,district
+80,estancia district,estancia,district
+81,moriarty-edgewood district,moriarty-edgewood,district
+82,mountainair district,mountainair,district
+83,rio rancho district,rio rancho,district
+84,clayton district,clayton,district
+85,des moines district,des moines,district
+86,los lunas district,los lunas,district
+87,belen district,belen,district
+88,grants district,grants,district
+89,zuni district,zuni,district
+501,media arts collaborative charter district,media arts collaborative charter,district charter/special
+502,cottonwood classical prep,albuquerque,unknown level charter/special
+503,horizon academy west district,horizon academy west,district charter/special
+504,north valley academy district,north valley academy charter,district charter/special
+505,school of dreams academy district,school of dreams academy,district charter/special
+509,nm school for the arts district,nm school for arts,district charter/special
+510,taos academy district,taos academy,district charter/special
+511,alma d'arte charter district,alma d'arte charter,district charter/special
+512,cesar chavez community  school,cesar chavez community school,unknown level charter/special
+515,south valley prep district,south valley prep,district charter/special
+516,abq school of excellence district,abq school of excellence,district charter/special
+517,abq sign language academy,abq sign language academy,unknown level charter/special
+518,tierra adentro district,tierra adentro,district charter/special
+519,the masters program district,the masters program,district charter/special
+520,the ask academy district,the ask academy,district charter/special
+521,taos integrated school of arts,taos integrated school of the arts,unknown level charter/special
+524,albuquerque institute of math & science,albuquerque institute of math & science,unknown level charter/special
+525,amy biehl charter 1,amy biehl charter 1,unknown level charter/special
+528,albuquerque bilingual academy,albuquerque bilingual academy,unknown level charter/special
+529,montessori elementary school,montessori elementary school,es charter/special
+530,southwest preparatory learning center,southwest preparatory learning center,unknown level charter/special
+531,southwest secondary learning center,southwest secondary learning center,unknown level charter/special
+532,aldo leopold charter district,aldo leopold charter,district charter/special
+535,j paul taylor academy,j paul taylor academy,unknown level charter/special
+536,the great academy,the great academy,unknown level charter/special
+539,red river valley charter school,red river valley charter school,unknown level charter/special
+542,mission achievement and success,mission achievement and success,unknown level charter/special
+544,sw aeronautics mathematics and science academy,sw aeronautics mathematics and science,unknown level charter/special
+547,mccurdy charter school,mccurdy charter school,unknown level charter/special
+549,new america school - las cruces,new america school - las cruces,unknown level charter/special
+550,estancia valley classical academy,estancia valley classical academy,unknown level charter/special
+552,walatowa charter high,walatowa charter high,hs charter/special
+554,new mexico connections academy,new mexico connections academy,unknown level charter/special
+555,nan,taos international school do,unknown level charter/special
+557,explore academy,explore academy,unknown level charter/special
+560,la academia dolores huerta,la academia dolores huerta,unknown level charter/special
+562,deap,deap,unknown level charter/special
+563,sandoval academy of bilingual education,sandoval academy of bilingual education,unknown level charter/special
+564,monte del sol charter,monte del sol charter,unknown level charter/special
+565,tierra encantada charter school,tierra encantada charter school,unknown level charter/special
+566,turquoise trail charter school,turquoise trail charter school,unknown level charter/special
+567,las montanas charter,las montanas charter,unknown level charter/special
+568,six directions indigenous school,six directions indigenous school,unknown level charter/special
+570,roots & wings community,roots and wings community,unknown level charter/special
+573,hozho academy,hozho academy,unknown level charter/special
+574,albuquerque collegiate charter school,albuquerque collegiate charter school,unknown level charter/special
+575,altura preparatory school,altura preparatory school,unknown level charter/special
+576,solare collegiate charter school,solare collegiate charter school,unknown level charter/special
+577,raices del saber xinachtli community,raices del saber xinachtli community school,unknown level charter/special
+578,middle college 1 charter - gallup,middle college 1 charter - gallup,unknown level charter/special
+579,aces technical 1,aces technical charter school,unknown level charter/special
+580,21st century public academy,21st century public academy,unknown level charter/special
+581,explore academy las cruces,explore academy las cruces,unknown level charter/special
+582,thrive community school,thrive community school,unknown level charter/special
+583,rio grande academy of fine arts,rio grande academy of fine arts,unknown level charter/special
+584,pecos cyber academy,pecos cyber academy,unknown level charter/special
+585,vista grande high school,vista grande high school,hs charter/special
+586,nan,explore academy - rio rancho,unknown level charter/special
+1006,native american community academy,albuquerque,unknown level
+1016,albuquerque talent development charter,albuquerque,unknown level
+1017,los puentes charter,albuquerque,unknown level
+1024,east mountain high school,albuquerque,hs
+1025,south valley academy,albuquerque,unknown level
+1028,corrales international,albuquerque,unknown level
+1030,gordon bernell charter,albuquerque,unknown level
+1039,mark armijo academy,albuquerque,unknown level
+1047,public academy for performing arts,albuquerque,unknown level
+1051,robert f. kennedy charter,albuquerque,unknown level
+1061,la academia de esperanza,albuquerque,unknown level
+1063,digital arts and technology academy,albuquerque,unknown level
+1069,el camino real academy,albuquerque,unknown level
+1090,abq charter academy,albuquerque,unknown level
+1095,montessori of the rio grande,albuquerque,unknown level
+1098,mountain mahogany community school,albuquerque,unknown level
+1116,alice king community school,albuquerque,unknown level
+1118,christine duncan heritage academy,albuquerque,unknown level
+1203,dennis chavez elementary,albuquerque,es
+1206,adobe acres elementary,albuquerque,es
+1207,alameda elementary,albuquerque,es
+1210,alamosa elementary,albuquerque,es
+1213,alvarado elementary,albuquerque,es
+1214,apache elementary,albuquerque,es
+1215,armijo elementary,albuquerque,es
+1216,atrisco elementary,albuquerque,es
+1217,john baker elementary,albuquerque,es
+1219,edmund g ross elementary,albuquerque,es
+1221,hubert h humphrey elementary,albuquerque,es
+1222,bandelier elementary,albuquerque,es
+1225,barcelona elementary,albuquerque,es
+1227,onate elementary,albuquerque,es
+1228,bel-air elementary,albuquerque,es
+1229,bellehaven elementary,albuquerque,es
+1230,gov bent elementary,albuquerque,es
+1231,kit carson elementary,albuquerque,es
+1234,chaparral elementary,albuquerque,es
+1236,chelwood elementary,albuquerque,es
+1237,cochiti elementary,albuquerque,es
+1240,collet park elementary,albuquerque,es
+1241,comanche elementary,albuquerque,es
+1243,coronado elementary,albuquerque,es
+1244,dolores gonzales elementary,albuquerque,es
+1249,duranes elementary,albuquerque,es
+1250,maryann binford elementary,albuquerque,es
+1252,east san jose elementary,albuquerque,es
+1255,emerson elementary,albuquerque,es
+1258,janet kahn fine arts academy,albuquerque,unknown level
+1260,manzano mesa elementary,albuquerque,es
+1261,eugene field elementary,albuquerque,es
+1262,edward gonzales elementary,albuquerque,es
+1264,ventana ranch elementary,albuquerque,es
+1265,seven bar elementary,albuquerque,es
+1267,griegos elementary,albuquerque,es
+1268,north star elementary,albuquerque,es
+1270,hawthorne elementary,albuquerque,es
+1273,hodgin elementary,albuquerque,es
+1275,painted sky elementary,albuquerque,es
+1276,inez elementary,albuquerque,es
+1279,kirtland elementary,albuquerque,es
+1280,susie rayos marmon elementary,albuquerque,es
+1285,la mesa elementary,albuquerque,es
+1288,lavaland elementary,albuquerque,es
+1291,longfellow elementary,albuquerque,es
+1295,chamiza elementary,albuquerque,es
+1297,los padillas elementary,albuquerque,es
+1300,lowell elementary,albuquerque,es
+1303,macarthur elementary,albuquerque,es
+1305,matheson park elementary,albuquerque,es
+1307,mccollum elementary,albuquerque,es
+1309,mission avenue elementary,albuquerque,es
+1310,mitchell elementary,albuquerque,es
+1312,monte vista elementary,albuquerque,es
+1315,montezuma elementary,albuquerque,es
+1317,petroglyph elementary,albuquerque,es
+1321,a. montoya elementary,albuquerque,es
+1324,mountain view elementary,albuquerque,es
+1327,navajo elementary,albuquerque,es
+1328,georgia o'keeffe elementary,albuquerque,es
+1329,arroyo del oso elementary,albuquerque,es
+1330,reginald chavez elementary,albuquerque,es
+1332,osuna elementary,albuquerque,es
+1333,pajarito elementary,albuquerque,es
+1336,los ranchos elementary,albuquerque,es
+1339,carlos rey elementary,albuquerque,es
+1345,san antonito elementary,albuquerque,es
+1348,sandia base elementary,albuquerque,es
+1350,double eagle elementary,albuquerque,es
+1351,corrales elementary,albuquerque,es
+1356,sierra vista elementary,albuquerque,es
+1357,sombra del monte elementary,albuquerque,es
+1360,s. y. jackson elementary,albuquerque,es
+1363,tomasita elementary,albuquerque,es
+1364,mark twain elementary,albuquerque,es
+1365,marie m hughes elementary,albuquerque,es
+1370,valle vista elementary,albuquerque,es
+1373,lew wallace elementary,albuquerque,es
+1376,wherry elementary,albuquerque,es
+1379,whittier elementary,albuquerque,es
+1385,zia elementary,albuquerque,es
+1388,zuni elementary,albuquerque,es
+1389,tierra antigua elementary,albuquerque,es
+1392,rudolfo anaya elementary,albuquerque,es
+1393,sunset view elementary,albuquerque,es
+1395,helen cordero primary,albuquerque,unknown level
+1405,john adams middle,albuquerque,ms
+1407,cleveland middle,albuquerque,ms
+1410,garfield middle,albuquerque,ms
+1413,grant middle,albuquerque,ms
+1415,harrison middle,albuquerque,ms
+1416,hayes middle,albuquerque,ms
+1418,hoover middle,albuquerque,ms
+1420,jackson middle,albuquerque,ms
+1425,jefferson middle,albuquerque,ms
+1427,kennedy middle,albuquerque,ms
+1430,desert ridge middle,albuquerque,ms
+1435,madison middle,albuquerque,ms
+1440,mckinley middle,albuquerque,ms
+1445,jimmy carter middle,albuquerque,ms
+1448,polk middle,albuquerque,ms
+1450,ernie pyle middle,albuquerque,ms
+1452,roosevelt middle,albuquerque,ms
+1455,taft middle,albuquerque,ms
+1457,taylor middle,albuquerque,ms
+1460,van buren middle,albuquerque,ms
+1465,washington middle,albuquerque,ms
+1470,wilson middle,albuquerque,ms
+1475,truman middle,albuquerque,ms
+1480,eisenhower middle,albuquerque,ms
+1485,l.b. johnson middle,albuquerque,ms
+1490,james monroe middle,albuquerque,ms
+1492,tony hillerman middle school,albuquerque,ms
+1496,george i sanchez,albuquerque,unknown level
+1497,tres volcanes community collaborative school,albuquerque,unknown level
+1498,ecademy k-8,albuquerque,unknown level
+1514,del norte high,albuquerque,hs
+1515,eldorado high,albuquerque,hs
+1516,nex gen academy,albuquerque,unknown level
+1517,ecademy,albuquerque,unknown level
+1520,highland high,albuquerque,hs
+1525,la cueva high,albuquerque,hs
+1530,manzano high,albuquerque,hs
+1540,rio grande high,albuquerque,hs
+1549,new futures high school,albuquerque,hs
+1550,sandia high,albuquerque,hs
+1560,valley high,albuquerque,hs
+1570,west mesa high,albuquerque,hs
+1575,volcano vista high,albuquerque,hs
+1576,atrisco heritage academy hs,albuquerque,unknown level
+1580,cibola high,albuquerque,hs
+1590,albuquerque high,albuquerque,hs
+1591,college and career high school,albuquerque,hs
+1593,early college academy,albuquerque,unknown level
+1596,freedom high,albuquerque,hs
+1597,school on wheels high school,albuquerque,hs
+1611,highland autism center,albuquerque,unknown level
+1706,coral community charter,albuquerque,unknown level
+1707,gilbert l sena charter hs,albuquerque,unknown level
+1708,new america school,albuquerque,unknown level
+1709,voz collegiate preparatory charter school,albuquerque,unknown level
+1749,ace leadership high school,albuquerque,hs
+1750,siembra leadership high school,albuquerque,hs
+1752,health leadership high school,albuquerque,hs
+1753,technology leadership high school,albuquerque,hs
+1768,new mexico international school,albuquerque,unknown level
+1780,cien aguas international,albuquerque,unknown level
+1781,the international school at mesa del sol,albuquerque,unknown level
+1782,william w josephine dorn charter,albuquerque,unknown level
+1900,desert willow family school,albuquerque,unknown level
+1952,coyote willow family school,albuquerque,unknown level
+2135,reserve elementary,reserve,es
+2136,reserve high,reserve,hs
+3045,datil elementary,quemado,es
+3129,quemado elementary,quemado,es
+3130,quemado high,quemado,hs
+4009,sidney gutierrez middle,roswell,ms
+4024,berrendo elementary,roswell,es
+4025,berrendo middle,roswell,ms
+4036,mountain view middle,roswell,ms
+4041,del norte elementary,roswell,es
+4042,mesa middle,roswell,ms
+4044,east grand plains elementary,roswell,es
+4050,el capitan elementary,roswell,es
+4052,nancy lopez elementary,roswell,es
+4095,military heights elementary,roswell,es
+4100,missouri ave elementary,roswell,es
+4105,monterrey elementary,roswell,es
+4120,sunset elementary,roswell,es
+4125,sierra middle,roswell,ms
+4126,pecos elementary,roswell,es
+4130,goddard high,roswell,hs
+4132,university high,roswell,hs
+4133,early college high school,roswell,hs
+4135,roswell high,roswell,hs
+4161,valley view elementary,roswell,es
+4175,washington ave elementary,roswell,es
+5054,hagerman elementary,hagerman,es
+5055,hagerman high,hagerman,hs
+5056,hagerman middle,hagerman,ms
+6043,dexter elementary,dexter,es
+6045,dexter high,dexter,hs
+6048,dexter middle,dexter,ms
+7073,lake arthur elementary,lake arthur,es
+7075,lake arthur high,lake arthur,hs
+7077,lake arthur middle,lake arthur,ms
+7078,nan,lake arthur,unknown level
+8003,moreno valley high,cimarron,hs
+8033,cimarron elementary,cimarron,es
+8034,cimarron high,cimarron,hs
+8036,cimarron middle,cimarron,ms
+8047,eagle nest elementary,cimarron,es
+8048,eagle nest middle,cimarron,ms
+9080,longfellow elementary,raton,es
+9135,raton intermediate,raton,unknown level
+9136,raton high,raton,hs
+10056,forrester elementary,springer,es
+10058,wilferth elementary,springer,es
+10150,springer high,springer,hs
+11100,maxwell elementary,maxwell,es
+11105,maxwell high,maxwell,hs
+11108,maxwell middle,maxwell,ms
+12036,clovis high,clovis,hs
+12040,barry elementary,clovis,es
+12042,arts academy at bella vista,clovis,unknown level
+12056,clovis hs freshman academy,clovis,unknown level
+12058,highland elementary,clovis,es
+12066,james bickley elementary,clovis,es
+12068,cameo elementary,clovis,es
+12072,la casita elementary,clovis,es
+12081,cms iacademy at lincoln jackson,clovis,unknown level
+12084,lockwood elementary,clovis,es
+12091,marshall middle,clovis,ms
+12095,mesa elementary,clovis,es
+12098,yucca middle,clovis,ms
+12122,parkview elementary,clovis,es
+12145,sandia elementary,clovis,es
+12155,zia elementary,clovis,es
+12156,w d gattis middle school,clovis,ms
+13161,texico elementary,texico,es
+13162,texico high,texico,hs
+13163,texico middle,texico,ms
+14093,melrose junior,melrose,unknown level
+14094,melrose elementary,melrose,es
+14095,melrose high,melrose,hs
+15055,grady elementary,grady,es
+15056,grady middle school,grady,ms
+15057,grady high,grady,hs
+16051,fort sumner elementary,ft sumner,es
+16052,fort sumner high,ft sumner,hs
+16060,fort sumner middle,ft sumner,ms
+17002,camino real middle,las cruces,ms
+17006,cesar chavez elementary,las cruces,es
+17007,sonoma elementary,las cruces,es
+17009,columbia elementary,las cruces,es
+17010,alameda elementary,las cruces,es
+17012,rio grande preparatory institute,las cruces,unknown level
+17014,monte vista elementary,las cruces,es
+17015,mesa middle,las cruces,ms
+17016,early college high school,las cruces,hs
+17017,mesilla valley leadership academy,las cruces,unknown level
+17018,centennial high school,las cruces,hs
+17034,central elementary,las cruces,es
+17035,picacho middle,las cruces,ms
+17036,conlee elementary,las cruces,es
+17044,east picacho elementary,las cruces,es
+17045,desert hills elementary,las cruces,es
+17048,dona ana elementary,las cruces,es
+17051,fairacres elementary,las cruces,es
+17053,highland elementary,las cruces,es
+17055,hillrise elementary,las cruces,es
+17059,hermosa heights elementary,las cruces,es
+17061,jornada elementary,las cruces,es
+17065,loma heights elementary,las cruces,es
+17075,las cruces high,las cruces,hs
+17086,lynn middle,las cruces,ms
+17093,mac arthur elementary,las cruces,es
+17097,mesilla elementary,las cruces,es
+17100,mayfield high,las cruces,hs
+17110,mesilla park elementary,las cruces,es
+17130,organ mountain high school,las cruces,hs
+17140,sunrise elementary,las cruces,es
+17144,sierra middle,las cruces,ms
+17145,tombaugh elementary,las cruces,es
+17150,university hills elementary,las cruces,es
+17166,valley view elementary,las cruces,es
+17170,vista middle,las cruces,ms
+17172,booker t. washington,las cruces,unknown level
+17177,white sands elementary,las cruces,es
+17184,zia middle,las cruces,ms
+18001,rio grande elementary,hatch,es
+18050,hatch valley middle,hatch,ms
+18053,garfield elementary,hatch,es
+18057,hatch valley elementary,hatch,es
+18058,hatch valley high,hatch,hs
+19001,vado elementary,gadsden,es
+19003,chaparral high,gadsden,hs
+19007,desert pride academy,gadsden,unknown level
+19008,santa teresa elementary,gadsden,es
+19009,sunrise elementary,gadsden,es
+19016,anthony elementary,gadsden,es
+19017,gadsden elementary,gadsden,es
+19018,alta vista early college high school,gadsden,hs
+19020,berino elementary,gadsden,es
+19025,yucca heights elementary,gadsden,es
+19030,chaparral elementary,gadsden,es
+19032,chaparral middle,gadsden,ms
+19035,desert view elementary,gadsden,es
+19040,desert trail elementary,gadsden,es
+19052,gadsden middle,gadsden,ms
+19054,gadsden high,gadsden,hs
+19076,la union elementary,gadsden,es
+19086,loma linda elementary,gadsden,es
+19120,north valley elementary,gadsden,es
+19140,riverside elementary,gadsden,es
+19175,santa teresa middle,gadsden,ms
+19200,santa teresa high,gadsden,hs
+20001,jefferson montessori,carlsbad,unknown level
+20018,carlsbad sixth grade academy - alta vista campus,carlsbad,unknown level
+20032,carlsbad intermediate school - pr leyva campus,carlsbad,unknown level
+20034,carlsbad high,carlsbad,hs
+20035,carlsbad early college high,carlsbad,hs
+20047,early childhood education center,carlsbad,unknown level
+20100,monterrey elementary,carlsbad,es
+20158,sunset elementary,carlsbad,es
+20160,desert willow elementary,carlsbad,es
+20161,ocotillo elementary,carlsbad,es
+20163,cottonwood elementary,carlsbad,es
+20164,carlsbad enrichment center,carlsbad,unknown level
+21085,loving elementary,loving,es
+21086,loving high,loving,hs
+21088,loving middle,loving,ms
+22001,yeso elementary,artesia,es
+22014,artesia high,artesia,hs
+22032,central elementary,artesia,es
+22054,grand heights early childhood,artesia,unknown level
+22056,hermosa elementary,artesia,es
+22128,penasco elementary,artesia,es
+22139,roselawn elementary,artesia,es
+22183,yucca elementary,artesia,es
+22189,artesia zia intermediate,artesia,unknown level
+23034,cliff high,silver city,hs
+23037,cliff elementary,silver city,es
+23115,jose barrios elementary,silver city,es
+23123,g.w.stout elementary,silver city,es
+23145,la plata middle,silver city,ms
+23152,silver high,silver city,hs
+23155,sixth street elementary,silver city,es
+23157,harrison schmitt elementary,silver city,es
+24023,bayard elementary,cobre consolidated,es
+24033,central elementary,cobre consolidated,es
+24036,cobre high,cobre consolidated,hs
+24059,hurley elementary,cobre consolidated,es
+24132,snell middle,cobre consolidated,ms
+24143,san lorenzo elementary,cobre consolidated,es
+25015,rita a. marquez elementary,santa rosa,es
+25020,anton chico middle,santa rosa,ms
+25144,santa rosa elementary,santa rosa,es
+25146,santa rosa high,santa rosa,hs
+25150,santa rosa middle,santa rosa,ms
+26168,vaughn elementary,vaughn,es
+26169,vaughn high,vaughn,hs
+27135,roy elementary,roy,es
+27136,roy high,roy,hs
+28100,mosquero elementary,mosquero,es
+28101,mosquero high,mosquero,hs
+29060,dugan-tarango middle,lordsburg,ms
+29082,lordsburg high,lordsburg,hs
+29174,r.v.traylor elementary,lordsburg,es
+30016,animas elementary,animas,es
+30017,animas 7-12 school,animas,unknown level
+30020,animas middle,animas,ms
+31004,new hope alternative high,lovington,hs
+31068,jefferson elementary,lovington,es
+31076,lea elementary,lovington,es
+31078,llano elementary,lovington,es
+31080,lovington 6th grade academy,lovington,unknown level
+31081,lovington high,lovington,hs
+31082,taylor middle,lovington,ms
+31083,lovington freshman academy,lovington,unknown level
+31123,ben alexander elementary,lovington,es
+31181,yarbro elementary,lovington,es
+32048,mettie jordan elementary,eunice,es
+32049,caton middle,eunice,ms
+32050,eunice high,eunice,hs
+33008,heizer middle school,hobbs,ms
+33028,broadmoor elementary,hobbs,es
+33030,college lane elementary,hobbs,es
+33032,coronado elementary,hobbs,es
+33046,edison elementary,hobbs,es
+33055,hobbs freshman high,hobbs,hs
+33057,highland middle school,hobbs,ms
+33058,hobbs high,hobbs,hs
+33059,houston middle school,hobbs,ms
+33066,jefferson elementary,hobbs,es
+33072,mills elementary,hobbs,es
+33075,stone elementary,hobbs,es
+33144,sanger elementary,hobbs,es
+33156,southern heights elementary,hobbs,es
+33164,taylor elementary,hobbs,es
+33172,booker t. washington elementary,hobbs,es
+33176,will rogers elementary,hobbs,es
+33177,murray elementary,hobbs,es
+34060,jal jr high,jal,hs
+34064,jal elementary,jal,es
+34066,jal high,jal,hs
+35090,tatum jr high,tatum,hs
+35162,tatum elementary,tatum,es
+35163,tatum high,tatum,hs
+36130,ruidoso middle,ruidoso,ms
+36139,ruidoso high,ruidoso,hs
+36145,sierra vista primary,ruidoso,unknown level
+36160,white mountain elementary,ruidoso,es
+37035,carrizozo elementary,carrizozo,es
+37036,carrizozo high,carrizozo,hs
+37157,carrizozo middle,carrizozo,ms
+38038,corona elementary,corona,es
+38039,corona high,corona,hs
+39059,hondo elementary,hondo,es
+39060,hondo high,hondo,hs
+40033,capitan elementary,capitan,es
+40034,capitan high,capitan,hs
+40036,capitan middle,capitan,ms
+41017,aspen elementary,los alamos,es
+41021,barranca mesa elementary,los alamos,es
+41040,chamisa elementary,los alamos,es
+41079,topper freshman academy,los alamos,unknown level
+41080,los alamos high,los alamos,hs
+41101,mountain elementary,los alamos,es
+41124,los alamos middle,los alamos,ms
+41127,pinon elementary,los alamos,es
+42005,bataan elementary,deming,es
+42006,deming cesar chavez,deming,unknown level
+42007,red mountain middle,deming,ms
+42008,ruben s. torres elementary,deming,es
+42010,early college high school,deming,hs
+42024,bell elementary,deming,es
+42025,deming intermediate,deming,unknown level
+42028,chaparral elementary,deming,es
+42036,columbus elementary,deming,es
+42044,deming high,deming,hs
+42045,mimbres valley high school,deming,hs
+42096,memorial elementary,deming,es
+43003,chief manuelito middle,gallup,ms
+43016,gallup central alternative,gallup,unknown level
+43030,chee dodge elementary,gallup,es
+43034,catherine a. miller elementary,gallup,es
+43038,crownpoint elementary,gallup,es
+43039,crownpoint high,gallup,hs
+43054,gallup middle,gallup,ms
+43055,gallup high,gallup,hs
+43062,indian hills elementary,gallup,es
+43064,tohatchi high,gallup,hs
+43066,jefferson elementary,gallup,es
+43073,miyamura high school,gallup,hs
+43075,navajo pine high,gallup,hs
+43077,lincoln elementary,gallup,es
+43079,navajo elementary,gallup,es
+43088,crownpoint middle,gallup,ms
+43089,tse yi gai high,gallup,hs
+43091,tobe turpen elementary,gallup,es
+43100,navajo middle school,gallup,ms
+43120,tohatchi middle,gallup,ms
+43130,ramah high,gallup,hs
+43132,ramah elementary,gallup,es
+43134,red rock elementary,gallup,es
+43145,thoreau high,gallup,hs
+43152,stagecoach elementary,gallup,es
+43155,thoreau middle,gallup,ms
+43160,david skeet elementary,gallup,es
+43162,thoreau elementary,gallup,es
+43164,tohatchi elementary,gallup,es
+43170,twin lakes elementary,gallup,es
+43174,del norte elementary,gallup,es
+43190,john f. kennedy middle,gallup,ms
+44001,lazaro larry garcia middle,mora,ms
+44059,holman elementary,mora,es
+44104,mora elementary,mora,es
+44105,mora high,mora,hs
+45172,wagon mound elementary,wagon mound,es
+45173,wagon mound high,wagon mound,hs
+46003,mountain view middle,alamogordo,ms
+46015,alamogordo high,alamogordo,hs
+46028,buena vista elementary,alamogordo,es
+46033,chaparral middle,alamogordo,ms
+46037,holloman middle,alamogordo,ms
+46056,sunset hills elementary,alamogordo,es
+46057,high rolls mountain park elementary,alamogordo,es
+46058,holloman elementary,alamogordo,es
+46072,la luz elementary,alamogordo,es
+46114,north elementary,alamogordo,es
+46144,desert star elementary,alamogordo,es
+46150,sierra elementary,alamogordo,es
+46181,yucca elementary,alamogordo,es
+47160,tularosa intermediate,tularosa,unknown level
+47163,tularosa elementary,tularosa,es
+47164,tularosa middle,tularosa,ms
+47165,tularosa high,tularosa,hs
+48038,cloudcroft elementary,cloudcroft,es
+48039,cloudcroft high,cloudcroft,hs
+48042,cloudcroft middle,cloudcroft,ms
+49053,tucumcari elementary,tucumcari,es
+49163,tucumcari middle,tucumcari,ms
+49164,tucumcari high,tucumcari,hs
+50058,house junior high,house,hs
+50059,house elementary,house,es
+50060,house high,house,hs
+51080,logan elementary,logan,es
+51081,logan high,logan,hs
+51082,logan middle,logan,ms
+51100,ute lake online learning center,logan,unknown level
+52001,san jon middle school,san jon,ms
+52144,san jon elementary,san jon,es
+52145,san jon high,san jon,hs
+53036,chama elementary,chama,es
+53064,tierra amarilla elementary,chama,es
+53165,escalante middle/high school,chama,ms
+54044,dulce elementary,dulce,es
+54045,dulce high,dulce,hs
+54050,dulce middle,dulce,ms
+55005,abiquiu elementary,espanola,es
+55015,alcalde elementary,espanola,es
+55019,carlos f. vigil middle,espanola,ms
+55039,chimayo elementary,espanola,es
+55042,dixon elementary,espanola,es
+55048,james rodriguez elementary,espanola,es
+55050,espanola valley high,espanola,hs
+55053,eutimio salazar elementary,espanola,es
+55059,hernandez elementary,espanola,es
+55142,los ninos elementary,espanola,es
+55144,san juan elementary,espanola,es
+55145,tony quintana elementary,espanola,es
+55169,velarde elementary,espanola,es
+56038,coronado high,jemez mountain,hs
+56054,gallina elementary,jemez mountain,es
+56060,coronado middle,jemez mountain,ms
+56087,lybrook elementary,jemez mountain,es
+57028,brown early childhood center,portales,unknown level
+57032,james elementary,portales,es
+57123,portales jr high,portales,hs
+57124,portales high,portales,hs
+57155,lindsey-steiner elementary,portales,es
+57160,valencia elementary,portales,es
+58047,elida elementary,elida,es
+58048,elida high,elida,hs
+59001,floyd middle,floyd,ms
+59053,floyd elementary,floyd,es
+59054,floyd high,floyd,hs
+60044,dora elementary,dora,es
+60045,dora high,dora,hs
+61016,algodones elementary,bernalillo,es
+61020,cochiti elementary,bernalillo,es
+61024,cochiti middle,bernalillo,ms
+61026,bernalillo middle,bernalillo,ms
+61027,bernalillo high,bernalillo,hs
+61028,santo domingo middle,bernalillo,ms
+61127,placitas elementary,bernalillo,es
+61136,bernalillo elementary,bernalillo,es
+61140,wd carroll elementary,bernalillo,es
+61151,santo domingo elementary,bernalillo,es
+62037,cuba elementary,cuba,es
+62038,cuba high,cuba,hs
+62075,cuba middle,cuba,ms
+63004,san diego riverside,jemez valley,unknown level
+63145,jemez valley elementary,jemez valley,es
+63166,jemez valley high,jemez valley,hs
+64001,mosaic academy charter,aztec,unknown level
+64002,vista nueva high,aztec,hs
+64017,c.v. koogler middle,aztec,ms
+64018,aztec high,aztec,hs
+64099,mccoy avenue elementary,aztec,es
+64123,park avenue elementary,aztec,es
+64136,lydia rippey elementary,aztec,es
+65006,piedra vista high,farmington,hs
+65015,animas elementary,farmington,es
+65017,apache elementary,farmington,es
+65019,bluffview elementary,farmington,es
+65037,country club elementary,farmington,es
+65038,esperanza elementary,farmington,es
+65053,farmington high,farmington,hs
+65058,hermosa middle school,farmington,ms
+65059,heights middle school,farmington,ms
+65073,ladera del norte elementary,farmington,es
+65095,mccormick elementary,farmington,es
+65100,mckinley elementary,farmington,es
+65106,mesa verde elementary,farmington,es
+65108,mesa view middle school,farmington,ms
+65118,northeast elementary,farmington,es
+65148,rocinante high,farmington,hs
+65162,tibbetts middle school,farmington,ms
+65180,san juan college high school,farmington,hs
+66001,charlie y. brown alt,bloomfield,unknown level
+66025,blanco elementary,bloomfield,es
+66026,bloomfield high,bloomfield,hs
+66030,bloomfield early childhood center,bloomfield,unknown level
+66033,central primary,bloomfield,unknown level
+66095,mesa alta jr high,bloomfield,hs
+66125,naaba ani elementary,bloomfield,es
+67025,career prep alternative,central consolidated,unknown level
+67026,eva b. stokely elementary,central consolidated,es
+67034,kirtland middle,central consolidated,ms
+67035,kirtland central high,central consolidated,hs
+67038,kirtland elementary,central consolidated,es
+67039,shiprock high,central consolidated,hs
+67060,judy nelson elementary,central consolidated,es
+67075,ojo amarillo elementary,central consolidated,es
+67109,dream dine charter school,central consolidated,unknown level
+67110,mesa elementary,central consolidated,es
+67114,naschitti elementary,central consolidated,es
+67116,newcomb elementary,central consolidated,es
+67126,newcomb middle,central consolidated,ms
+67130,newcomb high,central consolidated,hs
+67152,nizhoni elementary,central consolidated,es
+67160,tse bit ai middle,central consolidated,ms
+68003,wlv family partnership,west las vegas,unknown level
+68004,rio gallinas school,west las vegas,unknown level
+68012,luis e. armijo elementary,west las vegas,es
+68050,valley elementary,west las vegas,es
+68068,valley middle,west las vegas,ms
+68112,don cecilio martinez elementary,west las vegas,es
+68125,tony serna jr. elementary,west las vegas,es
+68157,union elementary,west las vegas,es
+68172,west las vegas middle school,west las vegas,ms
+68173,west las vegas high school,west las vegas,hs
+69031,memorial middle,las vegas city,ms
+69037,los ninos elementary,las vegas city,es
+69054,sierra vista elementary,las vegas city,es
+69136,robertson high,las vegas city,hs
+69150,mike sena elementary,las vegas city,es
+70124,pecos high,pecos,hs
+70150,pecos middle,pecos,ms
+70173,pecos elementary,pecos,es
+71005,cesar chavez elementary,santa fe,es
+71008,acequia madre elementary,santa fe,es
+71011,el camino real academy community,santa fe,unknown level
+71012,desert sage academy,santa fe,unknown level
+71020,capital high,santa fe,hs
+71022,carlos gilbert elementary,santa fe,es
+71023,ramirez thomas elementary,santa fe,es
+71024,academy for technology & classics,santa fe,unknown level
+71033,atalaya elementary,santa fe,es
+71054,aspen community school,santa fe,unknown level
+71057,gonzales elementary,santa fe,es
+71070,kearny elementary,santa fe,es
+71099,e.j. martinez elementary,santa fe,es
+71100,pinon elementary,santa fe,es
+71110,edward ortiz middle,santa fe,ms
+71130,r.m. sweeney elementary,santa fe,es
+71135,el dorado community school,santa fe,unknown level
+71141,amy biehl community school at rancho viejo,santa fe,unknown level
+71143,salazar elementary,santa fe,es
+71145,francis x. nava elementary,santa fe,es
+71146,chaparral elementary,santa fe,es
+71160,tesuque elementary,santa fe,es
+71165,santa fe high,santa fe,hs
+71166,early college opportunities,santa fe,unknown level
+71170,nina otero community school,santa fe,unknown level
+71173,mandela international magnet (mims),santa fe,unknown level
+71176,wood-gormley elementary,santa fe,es
+71189,milagro middle,santa fe,ms
+72123,pablo roybal elementary,pojoaque,es
+72124,pojoaque high,pojoaque,hs
+72125,pojoaque middle,pojoaque,ms
+72128,pojoaque intermediate,pojoaque,unknown level
+72132,sixth grade academy,pojoaque,unknown level
+73016,arrey elementary,truth or cons.,es
+73058,hot springs high,truth or cons.,hs
+73060,sierra elementary,truth or cons.,es
+73063,t or c middle,truth or cons.,ms
+73162,t or c elementary,truth or cons.,es
+74001,parkview elementary,socorro,es
+74003,cottonwood valley charter,socorro,unknown level
+74079,midway elementary,socorro,es
+74144,san antonio elementary,socorro,es
+74155,r. sarracino middle,socorro,ms
+74160,socorro high,socorro,hs
+75095,magdalena high,magdalena,hs
+75100,magdalena middle,magdalena,ms
+75133,magdalena elementary,magdalena,es
+76004,arroyo del norte elementary,taos,es
+76005,taos municipal charter,taos,unknown level
+76006,anansi charter school,taos,unknown level
+76011,taos cyber magnet,taos,unknown level
+76133,ranchos de taos elementary,taos,es
+76164,taos middle,taos,ms
+76165,taos high,taos,hs
+76175,enos garcia elementary,taos,es
+77121,penasco elementary,penasco,es
+77123,penasco high,penasco,hs
+77128,penasco middle,penasco,ms
+78047,el rito elementary,mesa vista,es
+78118,ojo caliente elementary,mesa vista,es
+78119,mesa vista high,mesa vista,hs
+78125,mesa vista middle,mesa vista,ms
+79001,alta vista elementary,questa,es
+79003,alta vista intermediate,questa,unknown level
+79129,questa high,questa,hs
+79130,questa jr high,questa,hs
+80001,upper elementary,estancia,es
+80050,estancia high,estancia,hs
+80169,lower elementary,estancia,es
+80172,estancia middle,estancia,ms
+81001,route 66 elementary,moriarty-edgewood,es
+81003,edgewood middle,moriarty-edgewood,ms
+81100,moriarty elementary,moriarty-edgewood,es
+81101,moriarty high,moriarty-edgewood,hs
+81102,moriarty middle,moriarty-edgewood,ms
+81120,south mountain elementary,moriarty-edgewood,es
+82105,mountainair elementary,mountainair,es
+82106,mountainair jr high,mountainair,hs
+82107,mountainair high,mountainair,hs
+83001,eagle ridge middle,rio rancho,ms
+83006,rio rancho high,rio rancho,hs
+83011,cleveland high school,rio rancho,hs
+83012,maggie cordova elementary school,rio rancho,es
+83013,independence high school,rio rancho,hs
+83015,vista grande elementary,rio rancho,es
+83016,rio rancho middle school,rio rancho,ms
+83018,rio rancho cyber academy,rio rancho,unknown level
+83020,sandia vista elementary,rio rancho,es
+83021,cielo azul elementary,rio rancho,es
+83025,joe harris elementary,rio rancho,es
+83050,colinas del norte elementary,rio rancho,es
+83100,enchanted hills elementary,rio rancho,es
+83105,mountain view middle,rio rancho,ms
+83319,puesta del sol elementary,rio rancho,es
+83340,rio rancho elementary,rio rancho,es
+83372,ernest stapleton elementary,rio rancho,es
+83375,martin king jr elementary,rio rancho,es
+83481,lincoln middle,rio rancho,ms
+84037,alvis elementary,clayton,es
+84038,clayton junior high,clayton,hs
+84039,clayton high,clayton,hs
+84045,kiser elementary,clayton,es
+85044,des moines elementary,des moines,es
+85045,des moines high,des moines,hs
+86002,valencia elementary,los lunas,es
+86003,desert view elementary,los lunas,es
+86009,century alt high,los lunas,hs
+86017,valencia high,los lunas,hs
+86018,los lunas family school,los lunas,unknown level
+86025,valencia middle school,los lunas,ms
+86028,bosque farms elementary,los lunas,es
+86080,katherine gallegos elementary,los lunas,es
+86082,los lunas elementary,los lunas,es
+86083,raymond gabaldon elementary,los lunas,es
+86084,los lunas middle,los lunas,ms
+86085,los lunas high,los lunas,hs
+86122,peralta elementary,los lunas,es
+86150,ann parish elementary,los lunas,es
+86160,sundance elementary,los lunas,es
+86180,tome elementary,los lunas,es
+87001,belen infinity high,belen,hs
+87003,la promesa elementary,belen,es
+87006,belen family school,belen,unknown level
+87025,belen middle,belen,ms
+87026,belen high,belen,hs
+87034,central elementary,belen,es
+87038,la merced elementary,belen,es
+87045,rio grande elementary,belen,es
+87066,gil sanchez elementary,belen,es
+87080,dennis chavez elementary,belen,es
+88038,cubero elementary,grants,es
+88055,grants high,grants,hs
+88056,los alamitos middle,grants,ms
+88057,laguna-acoma high,grants,hs
+88058,laguna-acoma middle,grants,ms
+88060,gccs early college high school,grants,hs
+88099,mesa view elementary,grants,es
+88104,milan elementary,grants,es
+88106,mount taylor elementary,grants,es
+88152,san rafael elementary,grants,es
+88155,seboyeta elementary,grants,es
+88915,bluewater elementary,grants,es
+89166,shiwi ts'ana elementary,zuni,es
+89190,zuni high,zuni,hs
+89192,twin buttes cyber academy,zuni,unknown level
+89195,zuni middle,zuni,ms
+501001,new mexico academy for the media arts,new mexico academy for the media arts charter,unknown level
+502001,cottonwood classical prep,cottonwood classical prep,unknown level
+503022,horizon academy west,horizon academy west,unknown level
+504001,north valley academy,north valley academy charter,unknown level
+505001,school of dreams academy,school of dreams academy,unknown level
+509001,nm school for the arts,nm school for arts,unknown level
+510001,taos academy,taos academy,unknown level
+511001,alma d'arte charter,alma d'arte charter,unknown level
+512001,cesar chavez community  school,cesar chavez community school,unknown level
+515001,south valley prep,south valley prep,unknown level
+516001,abq school of excellence,abq school of excellence,unknown level
+517001,abq sign language academy,abq sign language academy,unknown level
+518001,tierra adentro,tierra adentro,unknown level
+519001,the masters program,the masters program,unknown level
+520001,the ask academy,the ask academy,unknown level
+521001,taos integrated school of arts,taos integrated school of the arts,unknown level
+524001,albuquerque institute of math & science,albuquerque institute of math & science,unknown level
+525001,amy biehl charter high school,amy biehl charter high school,hs
+528001,albuquerque bilingual academy,albuquerque bilingual academy,unknown level
+529001,montessori elementary school,montessori elementary school,es
+530001,southwest preparatory learning center,southwest preparatory learning center,unknown level
+531001,southwest secondary learning center,southwest secondary learning center,unknown level
+532001,aldo leopold charter,aldo leopold charter,unknown level
+535001,j paul taylor academy,j paul taylor academy,unknown level
+536001,the great academy,the great academy,unknown level
+539001,red river valley charter school,red river valley charter school,unknown level
+542001,mission achievement and success 1.0,mission achievement and success,unknown level
+542002,mission achievement and success 2.0,mission achievement and success,unknown level
+544001,sw aeronautics mathematics and science academy,sw aeronautics mathematics and science,unknown level
+547001,mccurdy charter school,mccurdy charter school,unknown level
+549001,new america school - las cruces,new america school - las cruces,unknown level
+550001,estancia valley classical academy,estancia valley classical academy,unknown level
+552001,walatowa charter high,walatowa charter high,hs
+554001,new mexico connections academy,new mexico connections academy,unknown level
+555001,taos international school,taos international school,unknown level
+557001,explore academy,shining stars preschool,unknown level
+560001,la academia dolores huerta,la academia dolores huerta,unknown level
+562001,deap,deap,unknown level
+563001,sandoval academy of bilingual education,sandoval academy of bilingual education,unknown level
+564001,monte del sol charter,monte del sol charter,unknown level
+565001,tierra encantada charter school,tierra encantada charter school,unknown level
+566001,turquoise trail charter school,turquoise trail charter school,unknown level
+567001,las montanas charter,las montanas charter,unknown level
+568001,six directions indigenous school,six directions indigenous school,unknown level
+570001,roots & wings community,roots and wings community,unknown level
+573001,hozho academy,hozho academy,unknown level
+574001,albuquerque collegiate charter school,albuquerque collegiate charter school,unknown level
+575001,altura preparatory school,altura preparatory school,unknown level
+576001,solare collegiate charter school,solare collegiate charter school,unknown level
+577001,raices del saber xinachtli community,raices del saber xinachtli community school,unknown level
+578001,middle college high school charter - gallup,middle college high school charter - gallup,hs
+579001,aces technical high school,aces technical charter school,hs
+580001,21st century public academy,21st century public academy,unknown level
+581001,explore academy las cruces,explore academy las cruces,unknown level
+582001,thrive community school,thrive community school,unknown level
+583001,rio grande academy of fine arts,rio grande academy of fine arts,unknown level
+584001,pecos cyber academy,pecos cyber academy,unknown level
+585001,vista grande high school,vista grande high school,hs
+586001,nan,explore academy - rio rancho,unknown level
+999999,statewide,new mexico,state
