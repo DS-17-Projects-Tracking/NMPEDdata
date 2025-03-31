@@ -1,2 +1,6 @@
 # NMPEDdata
-csvs from 2022/23 and 2023/24 school years of NM PED attendance data
+Growing collection of data obtained from NM PED websites or from NM PED Research and Accountability office directly. 
+
+Helpful files
+-school directory (csv)
+-data dictionary (json)
